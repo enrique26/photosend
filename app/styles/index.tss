@@ -1,0 +1,39 @@
+".container": {
+	backgroundColor:"white"
+}
+"#username":{
+	top:100,
+	height:40,
+	width:200,
+	borderColor:'black',
+	borderWidth:1,
+	hintText:"ingresa tu nombre de usuario"
+}
+
+"#password":{
+	top:160,
+	height:40,
+	width:200,
+	borderColor:'black',
+	borderWidth:1,
+	hintText:"password",
+	passwordMask:true
+}
+
+"#login":{
+	top:250,
+	height:50,
+	width:150,
+	title:'login',
+	borderColor:'black',
+	borderWidth:1	
+}
+
+"#registro":{
+	top: 320,
+	height:50,
+	width:150,
+	title:'registro',
+	borderColor:"black",
+	borderWidth:1
+}

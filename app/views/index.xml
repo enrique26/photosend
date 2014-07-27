@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container">
+		<TextField id="username"></TextField>
+		<TextField id="password"></TextField>
+		<Button id="login" title="login">login</Button>
+		<Button id="registro" title="registro">registro</Button>
+	</Window>
+</Alloy>
