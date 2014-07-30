@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container2">
+	<ScrollView id="scroll" scrollType="vertical" scrollingEnabled="true" scrollIndicatorStyle="black">	
+		<Label id="labelNombre"></Label>
+		<ImageView id="fotod"></ImageView>
+		<Button id="fotografia">Tomar foto!!</Button>
+		<Button id="galeria">Ir a la galeria> </Button>
+	</ScrollView>
+	</Window>
+</Alloy>

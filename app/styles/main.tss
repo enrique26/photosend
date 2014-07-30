@@ -1,0 +1,42 @@
+".container2" : {
+	backgroundColor:'white',
+	layout:'vertical'
+  
+}
+"#scroll":{
+	layout:'vertical',
+	backgroundColor:'white',
+	
+}
+"#labelNombre":{
+	width:100,
+	height:40,
+	top:10,
+	borderColor:'black',
+	borderRadius:2,
+	backgroundColor:'white',
+}
+"#labelNombre":{
+	font:{
+		color:'red',
+		size:14
+	}
+}
+"#fotod":{
+	top:70,
+	height:150,
+	width:150,
+	borderColor:'black',
+	borderWidth:1
+}
+
+"#fotografia":{
+	width:250,
+	height:60,
+	top:100
+}
+"#galeria":{
+	width:250,
+	height:60,
+	bottom:10
+}
